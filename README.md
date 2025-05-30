@@ -4,8 +4,8 @@
 
 ### Api
 ```bash
-pip install "fastapi[standard]"
-fastapi dev api/main.py
+python -m pip install Django
+python api/manage.py runserver
 ```
 
 ### Cliente
